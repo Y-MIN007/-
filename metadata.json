@@ -1,0 +1,7 @@
+{
+  "name": "CineMatch: Cinematic Shot Finder",
+  "description": "Upload an image or describe a scene to discover or generate 20+ similar cinematic movie shots and generate high-quality AI prompts from them.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
